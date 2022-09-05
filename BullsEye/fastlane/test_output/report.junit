@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='BullsEyeUITests.xctest' tests='6' failures='0'>
+  <testsuite name='BullsEyeUITests.BullsEyeUITests' tests='2' failures='0'>
+    <testcase classname='BullsEyeUITests.BullsEyeUITests' name='testGameStyleSwitch' time='3.357'/>
+    <testcase classname='BullsEyeUITests.BullsEyeUITests' name='testTakeScreenshots' time='16.935'/>
+  </testsuite>
+  <testsuite name='BullsEyeUITests.BullsEyeUITestsLaunchTests' tests='4' failures='0'>
+    <testcase classname='BullsEyeUITests.BullsEyeUITestsLaunchTests' name='testLaunch' time='5.989'/>
+    <testcase classname='BullsEyeUITests.BullsEyeUITestsLaunchTests' name='testLaunch' time='7.270'/>
+    <testcase classname='BullsEyeUITests.BullsEyeUITestsLaunchTests' name='testLaunch' time='5.627'/>
+    <testcase classname='BullsEyeUITests.BullsEyeUITestsLaunchTests' name='testLaunch' time='7.237'/>
+  </testsuite>
+</testsuites>
